@@ -1,4 +1,4 @@
-# Hey, I'm Tristan Wright 👋
+# Hello there, I'm Tristan 👋
 
 Full-stack software engineer with 6 years of experience building tools that make creative and operations teams faster. I like empowering people to do things they never thought possible, from getting rid of repetitive tasks to creating tools that allow for incredible, new possibilities. Whether that's a Python automation script, an internal web app, or a full InDesign plug-in wired into a CRM.
 
